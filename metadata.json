@@ -1,0 +1,7 @@
+{
+  "name": "DoodleDiary",
+  "description": "Tell the story of your day through voice or text, and watch it transform into a unique, whimsical minimalist doodle using AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
